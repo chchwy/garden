@@ -1,5 +1,5 @@
 ---
-title: Your first note
+title: 'Your first note'
 ---
 
 ### Welcome!
