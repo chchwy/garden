@@ -1,7 +1,5 @@
 ---
 title: Node.js
-anchor: nodejs
-date : 01-01-2021
 feed: show
 ---
 

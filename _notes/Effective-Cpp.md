@@ -1,10 +1,6 @@
 ---
 title: Effective C++ 讀書筆記
-anchor: effective_cpp
 ---
-
-[[C++]]
-[[C++]]
 
 ### Item 1:  視 C++ 為語言聯邦
 
