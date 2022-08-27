@@ -1,4 +1,3 @@
-# GPU Command Queue
 #DX12 #GPU 
 
 [[DX12]] 連結CPU/GPU的命令通道
