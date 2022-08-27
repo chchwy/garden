@@ -14,6 +14,8 @@ permalink: /
 <ul>
   <li>[[C++]]</li>
   <li>[[Godot]]</li>
+  <li>[[DX12]]</li>
+  <li>[[卡片盒筆記]]</li>
 </ul>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
